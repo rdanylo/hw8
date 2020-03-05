@@ -1,0 +1,4 @@
+This project is based on the game Othello. 
+The goal is to have a human player use the command line to make moves and hopefully beat the computer at the game. The computer component was created by Professor Dolan. 
+
+The human player can enter the word "pass" to pass or select a valid cordinate to make a move. 
